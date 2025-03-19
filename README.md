@@ -1,4 +1,4 @@
-# 🌤️ Weather App 🌦️
+# 🌤️ Weather App
 
 ![tela](https://github.com/user-attachments/assets/b0aadf73-dc09-4409-ab3b-3530b2013a23)
 
