@@ -31,6 +31,7 @@ Este projeto utiliza a API do [OpenWeather](https://openweathermap.org/) para fo
    - 📈 Temperatura máxima e mínima
    - 💧 Umidade
    - 🌬️ Velocidade do vento
+   - ☁️ Condições adversas do tempo
 
 ## 🙌 Créditos
 
