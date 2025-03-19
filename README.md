@@ -1,12 +1,8 @@
-# Criando o conteúdo do arquivo README.md conforme solicitado
-
-readme_content = """
-
 # 🌤️ **Weather App** 🌦️
 
 Bem-vindo ao **Weather App**, um aplicativo simples e intuitivo para buscar as condições climáticas da cidade desejada! 🌍
 
-Este projeto utiliza a poderosa API do [OpenWeather](https://openweathermap.org/) para fornecer as informações mais precisas sobre o clima. ☁️
+Este projeto utiliza a API do [OpenWeather](https://openweathermap.org/) para fornecer as informações mais precisas sobre o clima. ☁️
 
 ---
 
@@ -20,36 +16,9 @@ Este projeto utiliza a poderosa API do [OpenWeather](https://openweathermap.org/
 
 ## 📸 **Screenshots do App**
 
-### 1. Tela inicial com campo de busca
+![tela](https://github.com/user-attachments/assets/b0aadf73-dc09-4409-ab3b-3530b2013a23)
 
-![Tela inicial](./assets/tela_busca.png)
-
-### 2. Resultado do clima de São Paulo
-
-![Resultado](./assets/tela_resultado.png)
-
----
-
-## 🚀 **Como rodar o projeto**
-
-Para rodar este projeto em sua máquina, siga os passos abaixo:
-
-1. **Clone o repositório**:
-
-   ```bash
-   git clone https://github.com/seu-usuario/weather-app.git
-   ```
-
-2. **Instale as dependências**:
-
-   ```bash
-   npm install
-   ```
-
-3. **Inicie o servidor**:
-   ```bash
-   npm start
-   ```
+Acesse o projeto aqui.
 
 ---
 
