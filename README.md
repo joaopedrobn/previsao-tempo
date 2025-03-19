@@ -6,19 +6,19 @@ Este projeto utiliza a API do [OpenWeather](https://openweathermap.org/) para fo
 
 ---
 
-## 🛠️ **Funcionalidades**
-
-- 🔍 **Busca de cidade**: Pesquise o clima de qualquer cidade do mundo!
-- 🌡️ **Informações completas**: Veja a temperatura atual, máxima, mínima, umidade e velocidade do vento.
-- 📱 **Interface simples e bonita**: Design clean e de fácil utilização.
-
----
-
 ## 📸 **Screenshots do App**
 
 ![tela](https://github.com/user-attachments/assets/b0aadf73-dc09-4409-ab3b-3530b2013a23)
 
 Acesse o projeto aqui.
+
+---
+
+## 🛠️ **Funcionalidades**
+
+- 🔍 **Busca de cidade**: Pesquise o clima de qualquer cidade do mundo!
+- 🌡️ **Informações completas**: Veja a temperatura atual, máxima, mínima, umidade e velocidade do vento.
+- 📱 **Interface simples e bonita**: Design clean e de fácil utilização.
 
 ---
 
